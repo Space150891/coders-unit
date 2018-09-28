@@ -1,0 +1,143 @@
+.form-group {
+
+  padding-bottom: 5px !important;
+  margin: 5px 0 0 0 !important;
+
+  .form-control-inline {
+    border: 0;
+    background-image: linear-gradient(#4caf50, #4caf50), linear-gradient(#D2D2D2, #D2D2D2);
+    background-size: 0 2px, 100% 1px;
+    background-repeat: no-repeat;
+    background-position: center bottom, center calc(100% - 1px);
+    background-color: rgba(0, 0, 0, 0);
+    transition: background 0s ease-out;
+    float: none;
+    box-shadow: none;
+    border-radius: 0;
+    margin-left: 20px;
+    margin-right: 25px;
+    &.input-width-10 {
+      width: 10px;
+    }
+    &.input-width-20 {
+      width: 20px;
+    }
+    &.input-width-30 {
+      width: 30px;
+    }
+    &.input-width-40 {
+      width: 40px;
+    }
+    &.input-width-50 {
+      width: 50px;
+    }
+    &.input-width-60 {
+      width: 60px;
+    }
+    &.input-width-70 {
+      width: 70px;
+    }
+    &.input-width-80 {
+      width: 80px;
+    }
+    &.input-width-90 {
+      width: 90px;
+    }
+    &.input-width-100 {
+      width: 100px;
+    }
+  }
+
+  label{
+    color: @grey-500 !important;
+  }
+
+  &.inline-label-100 {
+    label {
+      width: 100px;
+    }
+    .form-control {
+      display: inline-block;
+      width: ~"calc(100% - 100px)";
+    }
+    .time-and-granularity {
+      width: ~"calc(100% - 100px)";
+    }
+  }
+
+  &.inline-label-120 {
+    label {
+      width: 120px;
+    }
+    .form-control {
+      display: inline-block;
+      width: ~"calc(100% - 120px)";
+    }
+    .time-and-granularity {
+      width: ~"calc(100% - 120px)";
+    }
+  }
+
+  &.inline-label-140 {
+    label {
+      width: 140px;
+    }
+    .form-control {
+      display: inline-block;
+      width: ~"calc(100% - 140px)";
+    }
+    .time-and-granularity {
+      width: ~"calc(100% - 140px)";
+    }
+  }
+
+  &.inline-label-200 {
+    label {
+      width: 200px;
+    }
+    .form-control {
+      display: inline-block;
+      width: ~"calc(100% - 200px)";
+    }
+    .time-and-granularity {
+      width: ~"calc(100% - 200px)";
+    }
+  }
+
+  .time-and-granularity {
+
+    display: inline-block;
+
+    select,
+    input {
+      .form-control;
+    }
+
+    select {
+      width: 5rem;
+    }
+
+    input {
+      width: ~"calc(100% - 5rem)";
+    }
+  }
+}
+
+input[type=checkbox] {
+  transform: scale(1.2);
+  margin: 5px;
+  display: inline-block;
+}
+
+.popover-trigger-icon {
+  font-size: 1.3em;
+}
+
+.warning-thresholds-table {
+  td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}

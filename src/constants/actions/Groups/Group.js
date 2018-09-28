@@ -1,0 +1,41 @@
+import keyMirror from 'keymirror';
+
+export default keyMirror({
+
+  GROUPS_GROUP_LOAD_START:                null,
+  GROUPS_GROUP_TREE_LOADED:               null,
+  GROUPS_GROUP_LOADED:                    null,
+  GROUPS_GROUP_THINGS_LOADED:             null,
+  GROUPS_GROUP_PRODUCTS_LOADED:           null,
+  GROUPS_GROUP_HISTORY_PRODUCT_SELECTED:  null,
+  GROUPS_GROUP_HISTORY_PROPERTY_SELECTED: null,
+  GROUPS_GROUP_HISTORY_LOADED:            null,
+  GROUPS_GROUP_ERROR:                     null,
+  GROUPS_GROUP_LOAD_END:                  null,
+  GROUPS_GROUP_LIVE_UPDATES_CHANGE:       null,
+  GROUPS_GROUP_THING_SELECTED:            null,
+  GROUPS_GROUP_HISTORY_SELECTED_TIMESTAMP_FROM_CHANGED: null,
+  GROUPS_GROUP_HISTORY_SELECTED_TIMESTAMP_TO_CHANGED:   null,
+
+  //Maps
+  GROUPS_GROUP_MAP_OUTDOOR_CENTER_CHANGED: null,
+  GROUPS_GROUP_MAP_OUTDOOR_MARKERS_CHANGED: null,
+
+  //Group Delete
+  GROUPS_GROUP_DELETED:   null,
+
+  //Group form
+  GROUPS_GROUP_FORM_CREATE:              null,
+  GROUPS_GROUP_FORM_EDIT_START:          null,
+  GROUPS_GROUP_FORM_CHANGED:             null,
+  GROUPS_GROUP_FORM_SAVE_START:          null,
+  GROUPS_GROUP_FORM_SAVE_END:            null,
+  GROUPS_GROUP_FORM_SAVE_SUCCESS:        null,
+  GROUPS_GROUP_FORM_DISCARD:             null,
+  GROUPS_GROUP_FORM_EDIT_END:            null,
+  GROUPS_GROUP_FORM_FLOOR_UPLOAD_START:  null,
+  GROUPS_GROUP_FORM_FLOOR_UPLOAD_END:    null,
+  GROUPS_GROUP_FORM_FLOOR_FILE_LOADED:   null,
+  GROUPS_GROUP_FORM_FLOOR_FILE_RESET:    null
+
+});

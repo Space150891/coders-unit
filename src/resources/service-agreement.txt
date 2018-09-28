@@ -1,0 +1,106 @@
+iMatrix - IoT System.
+Software License Agreement
+
+  1.  General
+
+The software and documentation that accompanies this license (collectively the "Software") is the proprietary property of Sierra Telecom, Inc; 100 McFaul Way Suite 201, Zephyr Cove, NV 89488 (hereafter referred to as Licensor) and is protected by copyright law.  While the Licensor continues to own the Software, you will have certain rights to use the Software after your acceptance of this License.  This License governs any releases, revisions, or enhancements to the Software that the Licensor may furnish to you.  Except as may be modified by an applicable Licensor license certificate, license coupon, or license key (each a "License Module") that accompanies, precedes, or follows this License, your rights and obligations with respect to the use of this Software are as follows:
+
+  1.  License Grant:
+
+
+     *   The iMatrix-IoT System Software includes an Online System, an embedded component combined with mobile iOS and Android applications.  Licensor, grants a software license to the Licensee to evaluate, design, develop, test, compile and distribute products using these Software components.
+     *   Subject to the Licensee's compliance with the terms and conditions of this agreement, the Licensee is granted a limited, non-exclusive, worldwide license to develop, manufacture and license systems that contain this Software.  This Software, including but not limited to, derivative programs developed using this software, can be distributed to the Licensee's customers only in the object format.
+
+
+  1.  Ownership:
+
+     *   This Software is protected by copyright laws, international copyright treaties and trade secret laws, as well as other intellectual property laws and treaties.  This Software is licensed, and not sold to the Licensee, and can be used only in accordance with the terms of this Agreement.
+     *   Licensor retains right, title and ownership of the Software, including any and all copyrights, patents, trade secrets, trademarks and other intellectual proprietary rights embodied therein.
+     *   No other rights or licenses are granted to the Licensee by Licensor, expressly or by implication, with respect to any proprietary information or patent, copyright, trademark, trade secret, or other intellectual property rights owned or controlled by Licensor, except as expressly provided in this Agreement.
+     *   The Licensee acknowledges and agrees that any Software source code is Licensor's proprietary and confidential information, and that Licensee shall not disclose, distribute, or disseminate the Software to any third party other than the Company employees or the Company contractors who have executed agreement requiring confidential treatment of Software proprietary information.  The Licensee agrees to be liable for any loss, unauthorized disclosure, distribution, dissemination or misappropriation of the Software.
+     *   The Software may contain third party software that will require the Licensee to enter into license agreements with that third party prior to distribution of products that include the Software.  Industry recognized standards, like JPEG and MPEG, are published by industry recognized standards bodies that may claim to own patents and copyrights that cover implementation of those standards.  The Licensee agrees to be solely responsible for any third party intellectual property infringement claims that are based on or related to use or distribution of this Software.
+
+
+  1.  Restrictions:
+
+
+     *   Licensee, or any other employee or contractor hired by the Company, may not unlock, reverse engineer, decompile, disassemble or otherwise reduce all or any part of the binary or object format of the Software to human readable form, unless Licensor has provided it to the Licensee in human readable form.
+     *   Licensee may not copy, rent, lease, loan, publish, sell, sublicense, distribute or transfer this Software or any portion thereof, or create any derivative work using the Software, for any purpose other than what is expressly permitted in this Agreement.
+     *   Licensee may not grant source code sublicense.  If Licensee subcontracts application development or modification of this Software to any third party, this source code must obtain equivalent license from Licensor.  Licensee may not authorize such subcontract development work until the third party has executed such Agreement.
+     *   Licensee shall maintain and not alter or remove any Licensor copyright notice or trademark signs.
+     *   This Software has not been tested or certified by any government agency, industry regulatory organization or other third-party organizations.  The Licensee agrees that prior to using, incorporating or distributing the Software in or with any commercial product; the Licensee will thoroughly test the product and the functionality of the Software in or with that product, and be solely responsible for any problems or failures.
+     *   Licensor reserves all rights not specifically granted under this Agreement.
+
+
+
+  1.  Exclusive Use with iMatrix Cloud Solution:
+
+
+     *   In consideration of the rights and licenses granted under this Agreement, Licensee agrees to only use the software and systems in association with the iMatrix Cloud Services.
+     *   In addition, the Licensee agrees to not use any elements of the Licensed software with any other service or system without the express written permission of the Licensor.
+
+
+  1.  Export Control:
+
+
+     *   The software licensed hereunder is subject to the export control laws and regulations of the United States, and any amendments thereof.  The Licensee will not export, re-export or release products that integrate this Software, directly or indirectly, to any countries that are subject to United States export restrictions.
+     *   Licensee shall, at its own expense, obtain and arrange for maintenance of all non-United States government approvals, if any, and comply with all applicable local laws and regulations as may be necessary for performance under this Agreement.
+     *   Licensee shall pay, and be responsible for any and all sales taxes, use taxes and any other taxes imposed by any jurisdiction as a result of entry into this Agreement.
+
+
+  1.  Limitation of Liability:
+
+
+     *   In no event shall Licensor be liable for any special, incidental, punitive, indirect, or consequential damages arising out of or in any way related to the use or the inability to use this Software, whether or not Licensor has been advised of the possibility of such damages.  These damages include, but are not limited to, cost of removal or reinstallation, procurement of substitute goods and services, outside computer time, labor costs and loss of data.
+     *   iMatrix-IoT System Software products are not intended for use as critical components in life support applications, devices or systems in which the failure of a iMatrix-IoT System Software product could reasonably be said to result in personal injury or death.
+
+
+  1.  Support
+
+
+     *   Licensor may, in its sole discretion, provide to Licensee Updates to this Software, and such Updates will be covered under this Agreement.  Licensor is under no obligation to provide Licensee with any updates, support, or maintenance of the Software.
+
+
+  1.  Warranty
+
+
+     *   Licensor does not warrant that the functions contained in the Software will be free from error or will meet the Licensee requirements.  Licensor will have no responsibility or liability for errors or product malfunction resulting from use, modification, copying, or distributing of the Software.
+     *   This Software is provided "as is".  Licensor makes no warranties or representations, express, implied or statutory, including any implied warranties of merchantability, fitness for particular purpose, lack of viruses, accuracy or completeness of responses, and non-infringement of any third party intellectual property rights with regard to the Software, or your use of the Software.
+
+
+  1.  Termination:
+
+
+     *   This Agreement begins on the Effective Date of agreement and remains effective until it is terminated.
+     *   Either party may terminate this Agreement for any reason upon thirty (30) days of prior written notice.
+     *   Either party may terminate this Agreement immediately if the other party becomes in material breach of this Agreement.
+     *   If this Agreement is terminated, the Licensee shall return to Licensor or destroy all copies of the Software, including all portions and derivatives thereof.
+     *   Sections 1 (License Grant), 2 (Ownership), 3 (Restrictions), 6 (Limitation of Liability), 8 (Warranty) shall survive expiration or termination of this Agreement.
+
+
+  1.  Notices:
+
+
+     *   All notices in connection with this Agreement shall be delivered in writing delivered to the principal Licensor's address listed above in section 1:
+
+
+     *   Notices shall be deemed given on the day that they are
+
+  *   Delivered personally
+  *   Sent by commercial overnight courier with written verification of receipt
+  *   Sent by registered or certified mail, return receipt requested, postage prepaid
+
+
+
+  1.  Governing Law and Jurisdiction
+
+
+     *   This Agreement shall be construed and controlled by the laws of the state of Nevada.  Any dispute arising out of or related to this Agreement will be brought in, and each party consents to exclusive jurisdiction and venue in state and federal courts sitting in Washoe County, Nevada.  Each party waives all defenses of lack of personal jurisdiction and forum non-conveniens, and agrees that process may be served on either party in a manner authorized by applicable law or court rule.
+     *   In any action or suit to enforce right or remedy under this Agreement, or to interpret provisions of this Agreement, the prevailing party shall be entitled to recover its costs, including reasonable attorneys' fees.
+     *   If any provision of this Agreement shall be held by a court of competent jurisdiction to be illegal, invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+
+  1.  Entire Agreement
+
+
+     *   This is the entire Agreement between the Licensee and Licensor and supersedes any prior agreement between the parties related to the subject matter of this Agreement.  No amendment or modification of this Agreement will be effective unless submitted in writing and signed by authorized officers of both parties.  You hereby warrant that you have obtained all authorizations and other applicable consents required empowering you to enter this Agreement.

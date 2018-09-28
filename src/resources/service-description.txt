@@ -1,0 +1,245 @@
+
+Section 1: Description of Services
+
+1)      Definitions
+
+     *   Content - Any files, documents, recordings, and other information belonging to you, users or others as may be uploaded to your account for storage and/or as used, presented or shared with third parties relating to or connected with the Services.
+     *   Confidential Information - means all confidential, scientific, technical, financial, business and other information, all manufacturing, marketing, sales and distribution data, all scientific and test data, documents, methods, techniques, formulations, operations, know-how, experience, skills, trade secrets, computer programs and systems, processes, practices, ideas, inventions, designs, samples, plans and drawings;
+     *   Published File - Refers to a unique product with matching manufacturing and over-the-air (OTA) support service.
+     *   Things - Independent items serviced
+     *   Users - All companies, affiliates, associates, or individuals using the services,
+
+2)      Tier Account Levels
+Services are provided at several "Tier" account levels addressing various volume requirements. These include Pilot, Bronze, Silver, Gold, Platinum, Premium, and Emerald accounts.  Each account tier provides features which can be augmented at additional cost. An overview of the included features is summarized in the following chart with detailed features and pricing available in the iMatrix Pricing Model document
+
+
+TIER
+
+PRODUCTS
+
+USERS
+
+THINGS
+
+Pilot
+
+1
+
+10
+
+10
+
+Bronze
+
+1
+
+500
+
+500
+
+Silver
+
+2
+
+1,000
+
+1,000
+
+Gold
+
+2
+
+5,000
+
+5,000
+
+Platinum
+
+2
+
+10,000
+
+10,000
+
+Premium
+
+2
+
+50,000
+
+50,000
+
+Emerald
+
+2
+
+100,000
+
+100,000
+
+
+3)      Service Description
+The iMatrix services from Sierra Telecom include tools for managing all aspects of a connected business.
+iMatrix capabilities include:
+
+*         iMatrix Connectivity solutions make it simple and quick to connect devices with unlimited scalability.
+
+*         iMatrix Management features that simplify the tasks of provisioning, monitoring and updating devices and of authenticating and managing IoT Devices and users.
+
+*         iMatrix Security features offer end-to-end protection of devices and the data they contain while in transit and idle.
+
+*         iMatrix Analytics features allow transform of data and relationships into insightful information that can deliver greater value and better products.
+
+*         iMatrix services also include professional services that can directly assist a company to transform itself into a connected business. This will offer a faster path to increased profits, optimized operations and better customer engagement.
+Note: The standard iMatrix pricing model is Appendix II. The Apollo Application running on iMatrix has a 25% surcharge applicable at all levels.
+
+Section 2 Terms of Services
+
+1)      Use of Services
+
+     *   Rights of Service Use - You as well as all "Users" agree to use these "Services" in accordance with the "Tier Account Levels" by which we measure, price and offer our Services as posted on our websites, your Order, or the Service Descriptions. You may use our Services only as permitted in these Terms, and your use must comply with our policies. We grant you a limited right to use our Services only for business and professional purposes. Technical support for the Services is described in the Service Descriptions. If your affiliates, or associates use our Services, you warrant that you have the authority to bind those affiliates or associates and you will be liable if your affiliates or associates do not comply with the Agreement. Our "Description of Services" includes an overview of the Services, and may include service-specific additional terms. The Service Descriptions are incorporated into these Terms. The Services, software and websites are provided via equipment and resources located in the United States and other locations throughout the world and you consent to having personal data processed by us in the United States and other locations throughout the world.
+     *   Usage Limitations - Using our Services, you agree on behalf of yourself and your users as follows:
+
+i)        Not to modify, prepare derivative works of, or reverse engineer, our Services.
+
+ii)       Not to knowingly or negligently use our Services in a way that abuses or disrupts our networks, user accounts, or the Services.
+
+iii)     Not to transmit through the Services any harassing, fraudulent or unlawful material.; M
+
+iv)     Not to market or resell the Services to any third party.
+
+v)       Not to use the Services in violation of our policies, applicable laws, or regulations.
+
+vi)     Not to use the Services to send unauthorized advertising, or spam. Not to harvest, collect, or gather user data without their consent.
+
+vii)   Not to transmit through the Services any material that may infringe the intellectual property or other rights of third parties.
+
+     *   Service Upgrades - We reserve the right to enhance or modify features of our Services but will not materially reduce the core functionality or discontinue any Services unless we provide you with prior written notice. We may offer additional functionality to our standard Services or premium feature improvements for an additional cost.
+
+     *   Proprietary Rights - You acknowledge that we retain all proprietary right, title and interest in the Services, our name, logo or other marks, and any related intellectual property rights, including, without limitation, all modifications, enhancements, derivative works, and upgrades thereto. You agree that you will not use or register any trademark, service mark, business name, domain name or social media account name.
+
+
+2)      Purchasing Terms
+
+     *   Purchases - You may order Services using our then-current ordering processes. All Orders are effective on the earlier of:
+
+(a)    The date you submit your Order.
+
+(b)    The date you convert from a services trial.
+
+(c)     The date on the signature block of the Order.
+Acceptance of your Order will be subject to our verification and credit approval process. Each Order shall be treated as a separate and independent Order. A Purchase Order is required for non-credit card transactions.
+
+     *   Payment Terms - You agree to pay all applicable, undisputed fees for the Services as set forth on the invoice with the following agreed upon terms.
+
+i)        Except as set forth in the termination clause below, any and all payments you make to us for access to the Services are final and non-refundable.
+
+ii)       You are responsible for all fees and charges imposed by your voice and data transmission providers related to your access and use of the Services.
+
+iii)     You are responsible for providing accurate and current billing, contact and payment information to us or any reseller.
+
+iv)     You agree that we may take steps to verify whether your payment method is valid, charge your payment card or bill you for all amounts due for your use of the Services, and automatically update your payment card information using software designed to do so in the event your payment card on file is no longer valid.
+
+v)       You agree that your credit card information and related personal data may be provided to third parties for payment processing and fraud prevention purposes.
+
+vi)     We may suspend or terminate your Services if at any time we determine that your payment information is inaccurate or not current, and you are responsible for fees and overdraft charges that we may incur when we charge your card for payment.
+
+vii)   We will not agree to submit invoices via any customer procure-to-pay online portal or Electronic Data Interchange (EDI) portals.
+
+viii)  We reserve the right to update the price for services at any time after your Initial Term, and price changes will be effective as of your next billing cycle. We will notify you of any price changes by publishing on our website, emailing, quoting or invoicing you.
+
+     *   Promotional Offers - Promotions and other special discounted pricing offers are temporary, and, upon the renewal of your subscription, any such discounted pricing offers may expire. We reserve the right to discontinue or modify special promotional offers in our sole discretion.
+
+     *   Disputes - You must notify us of any fee dispute within 15 days of the invoice date, and once resolved, you agree to pay those fees within 15 days. We may also suspend or terminate your Services if you do not pay undisputed fees, and you agree to reimburse us for all reasonable costs and expenses incurred in collecting delinquent amounts.
+     *   Taxes - You are responsible for all applicable sales, services, value-added, goods and services, and similar taxes (collectively, "Taxes") imposed by any government entity or collecting agency based on the Services, except those Taxes based on our net income, or Taxes for which you have provided an exemption certificate. We reserve the right to gross up the price for services in any invoice, or require you to gross up your payment, if your withholding obligations prevent us from receiving the amount specified in the order. Additionally, if you do not satisfy your Tax obligations, you agree that you will be required to reimburse us for any Taxes paid on your behalf, and we may take steps to collect Taxes we have paid on your behalf. In all cases, you will pay the amounts due under this Agreement to us in full without any right of set-off or deduction.
+
+3)      Contract Term
+
+     *   Term - Initial Term commitment for any Order will be specified in the Order, or if no Term is specified, your Initial Term will be 12 months from the Effective Date of the Order. Term commitment will automatically renew for additional 12-month periods, unless either party provides notice of non-renewal of the Order 30 days before the current term expires. We may agree to align the invoicing under multiple Orders, but this will not reduce the Term of any Order. Terminating specific Services does not affect the term of any other Services still in effect. If we permit reinstatement of Services at any time after termination, you agree that you will be bound by the then-current Terms and the renewal date that was in effect as of the effective termination date.
+     *   Termination - Termination details, consequences and remedies.
+
+i)        Either party may terminate the Agreement:
+
+(a)    If the either party breaches its material obligations and fails to cure within 30 days of receipt of written notice.
+
+(b)    If the other party becomes insolvent or bankrupt, liquidated or is dissolved, or ceases substantially all of its business.
+
+ii)       We may suspend access or terminate immediately if you or your users breach the following:
+
+(a)    Market, or resell the Services to any third party.
+
+(b)    Use the Services in violation of our policies, applicable laws, or regulations.
+
+iii)     Neither party will be liable for any damages resulting from termination of the Agreement, and termination will not affect any claim arising prior to the effective termination date.
+
+iv)     If the Agreement or any Services are terminated, you will immediately discontinue all use of the terminated Services, except that upon request, we will provide you with limited access to the Services for a period not to exceed 30 days, solely to enable you to retrieve your Content from the Services. We have no obligation to maintain your Content after that period.
+
+4)      Content and Accounts
+
+     *   Content - Includes any of your, or your users' or recipients' files, documents, recordings, and other information that is uploaded to your service account for storage, or used, presented or shared with third parties in connection with the service.
+
+(a)    Content Ownership - You and your users retain all rights to your and their content and we do not own or license this content. You and your users grant us a non-exclusive, worldwide, royalty-free, license to use, modify, reproduce and distribute your and their content, only as required to provide the Services to which you and your users have subscribed.
+
+              *   You and your users warrant that:
+
+(i)      You have the right to grant us the license.
+
+(ii)    None of the content infringes on the rights of any third party.
+
+(c)     Content Security - Each party agrees to apply reasonable technical, organizational and administrative security measures to keep Content protected in accordance with industry standards.
+
+(d)    Legal Duties - You agree to comply with all legal duties applicable to you and your users as a data controller by virtue of the submission of your content within the Services
+
+     *   Accounts - You are solely responsible for:
+
+(a)    All use of the Services by you and your users.
+
+(b)    Obtaining consent from your users to the collection, use, processing and transfer of content.
+
+(c)     providing notices or obtaining consent as legally required in connection with the Services.
+
+        *   We do not send emails asking for your usernames or passwords, and to keep your accounts secure, you should keep all usernames and passwords confidential. We are not liable for any loss that you may incur if a third party uses your password or account. We may suspend the Services or terminate the Agreement if you, your users, or attendees are using the Services in a manner that is likely to cause harm to us. You agree to notify us immediately and terminate any unauthorized access to the Services or other security breach.
+
+5)      Legal Compliance
+
+     *   In connection with the performance, access and use of the services under the agreement, each party agrees to comply with all applicable laws, rules and regulations including, but not limited to export, privacy, and data protection laws and regulations. If necessary and in accordance with applicable law, we will cooperate with local, state, federal and international government authorities with respect to the Services. Notwithstanding any other provision in these Terms, we may immediately terminate the agreement for noncompliance with applicable laws.
+
+6)      Warranties
+
+     *   WE WARRANT THAT THE SERVICES WILL CONFORM TO THE SERVICE DESCRIPTIONS UNDER NORMAL USE. WE DO NOT REPRESENT OR WARRANT THAT
+     *   THE USE OF OUR SERVICES WILL BE TIMELY, UNINTERRUPTED OR ERROR FREE, OR OPERATE IN COMBINATION WITH ANY SPECIFIC HARDWARE, SOFTWARE, SYSTEM OR DATA.
+     *   OUR SERVICES WILL MEET YOUR REQUIREMENTS.
+     *   ALL ERRORS OR DEFECTS WILL BE CORRECTED.
+     *   USE OF THE SERVICES IS AT YOUR SOLE RISK. OUR ENTIRE LIABILITY AND YOUR EXCLUSIVE REMEDY UNDER THIS WARRANTY WILL BE, AT OUR SOLE OPTION AND SUBJECT TO APPLICABLE LAW, TO PROVIDE CONFORMING SERVICES, OR TO TERMINATE THE NON-CONFORMING SERVICES OR THE APPLICABLE ORDER, AND PROVIDE A PRO-RATED REFUND OF ANY PREPAID FEES FROM THE PERIOD OF NON-CONFORMANCE THROUGH THE END OF THE REMAINING TERM. TO THE EXTENT PERMITTED BY APPLICABLE LAW, WE DISCLAIM ALL OTHER WARRANTIES AND CONDITIONS, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES AND CONDITIONS, THEREFORE SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO CUSTOMERS LOCATED IN THOSE JURISDICTIONS.
+
+7)      Indemnification
+
+     *   You and your users will indemnify and defend us against any third-party claim resulting from a breach, of contract or alleging that any of your or your users content infringes upon any patent or copyright, or violates trade secret or privacy rights of any party, and you agree to pay reasonable attorney's fees, court costs, damages finally awarded, or reasonable settlement costs with respect to any such claim. We will promptly notify you of any claim and cooperate with the you in defending the claim. You will reimburse us for reasonable expenses incurred in providing any cooperation or assistance.
+
+8)      Limitation of Liability
+
+     *   Limited Liability - NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY OR TO ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL LOSS, EXEMPLARY OR OTHER DAMAGES, WHETHER DIRECT OR INDIRECT, ARISING OUT OF OR RELATING TO:
+
+(a)    LOSS OF DATA.
+
+(b)    LOSS OF INCOME.
+
+(c)     LOSS OF OPPORTUNITY.
+
+(d)    LOST PROFITS
+
+(e)    COSTS OF RECOVERY OR ANY OTHER DAMAGES.
+HOWEVER, CAUSED AND BASED ON ANY THEORY OF LIABILITY, INCLUDING, BUT NOT LIMITED TO, BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR VIOLATION OF STATUTE, WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. SOME JURISDICTIONS DO NOT ALLOW LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY.
+
+     *   Limitation on Amount of Liability - EXCEPT FOR BREACH OF CONTRACT AND YOUR INDEMNIFICATION OBLIGATIONS, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL CUMULATIVE LIABILITY OF EITHER PARTY AND THEIR RESPECTIVE LICENSORS AND SUPPLIERS ARISING OUT OF THIS AGREEMENT IS LIMITED TO THE SUM OF THE AMOUNTS PAID FOR THE APPLICABLE SERVICE DURING THE 12 MONTHS IMMEDIATELY PRECEDING THE INCIDENT GIVING RISE TO THE LIABILITY. THE FOREGOING DOES NOT LIMIT YOUR OBLIGATIONS TO PAY ANY UNDISPUTED FEES AND OTHER AMOUNTS DUE UNDER ANY ORDER
+
+9)      General Terms
+
+     *   Third Party Services - The Services may be linked to third-party sites or applications ("Third Party Services"). We are not responsible for and do not endorse Third Party Services. You have sole discretion whether to purchase or connect to any Third-Party Services and your use is governed solely by the terms for those Third-Party Services.
+     *   Assignment - Neither party may assign its rights or delegate its duties under the Agreement either in whole or in part without the other party's prior written consent, which shall not be unreasonably withheld, except that either party may assign the Agreement to an affiliated entity, or as part of a corporate reorganization, consolidation, merger, or sale of all or substantially all of its assets. Any attempted assignment without consent will be void. The Agreement will bind and inure to the benefit of each party's successors or assigns.
+     *   Notices - Notices must be sent by personal delivery, overnight courier or registered mail. We may also provide notice to the email last designated on your account, electronically via postings on our website, in-product notices, or our self-service portal or administrative center. Unless specified elsewhere in this Agreement, notices should be sent to us at the address for your applicable contracting entity, with a copy to our Legal Department,
+     *   Class Actions - You and your users may only resolve disputes with us on an individual basis and you agree not to bring or participate in any class, consolidated, or representative action against us or any of our employees or affiliates.
+     *   Compromised Infrastructure - If we reasonably determine that the security of our services or infrastructure may be compromised due to hacking attempts, denial of service attacks, or other malicious activities, we may temporarily suspend the services and we will take action to promptly resolve any security issues. We will notify you of any suspension or other action taken for security reasons.
+     *   Survival - Any term, condition or provision hereof that requires fulfillment or performance, or that is, by its nature, applicable, after the termination or expiry of this agreement and the relationship created hereby, shall survive such termination or expiry and remain in full force and effect. The termination of any provision of this Agreement shall not excuse a prior breach of that provision.
+     *   Entire Agreement - This Agreement, including your order and related invoices for services ordered, these Terms, and Service Descriptions, contains the entire agreement of the parties and there are no other promises or conditions in any other agreement whether oral or written.  This Agreement supersedes any prior written or oral agreements between the parties
+     *   Applicable Law - This Agreement shall be governed by the laws of the State of Nevada

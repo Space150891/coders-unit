@@ -1,0 +1,147 @@
+.view-product,
+.form-product
+{
+  .details{
+    table{
+      tr{
+        td{
+          padding-left: 0px;
+          padding-right: 15px;
+          padding-top:0px;
+          &:nth-child(2){
+            font-weight:400;
+          }
+        }
+      }
+    }
+  }
+  .controls,
+  .sensors{
+    tr.disabled{
+      opacity: 0.4;
+    }
+  }
+  .product-photo{
+    img{
+      width:100%;
+    }
+  }
+}
+
+.warning-thresholds{
+  label{
+    width:80px;
+  }
+  .actions{
+    a{
+      margin-right:15px;
+      margin-top:5px;
+      margin-bottom:5px;
+    }
+  }
+}
+
+.states{
+  .row{
+
+    .text,
+    .value,
+    .text-color,
+    .bg-color{
+      display: block;
+      float: left;
+    }
+
+    .text,
+    .value{
+      border: 0;
+      background-image: linear-gradient(#4caf50, #4caf50), linear-gradient(#D2D2D2, #D2D2D2);
+      background-size: 0 2px, 100% 1px;
+      background-repeat: no-repeat;
+      background-position: center bottom, center calc(100% - 1px);
+      background-color: rgba(0, 0, 0, 0);
+      transition: background 0s ease-out;
+      box-shadow: none;
+      border-radius: 0;
+      width:10rem;
+      margin-right:1rem;
+    }
+
+    .text-color,
+    .bg-color{
+      margin-right: 1rem;
+    }
+
+    .btn{
+      margin: 0px;
+    }
+  }
+}
+
+.form-product{
+  .form-group{
+    width: 25%;
+    padding-right: 30px;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-bottom:30px !important;
+    input[type=checkbox]{
+      float:left;
+      margin-right:15px;
+    }
+  }
+  .section{
+    display: inline;
+  }
+
+}
+.sensors, .controls, .properties{
+  .content{
+    max-width: 100%;
+    overflow: auto;
+    .table{
+      th{
+        white-space: nowrap;
+      }
+    }
+  }
+}
+.checkbox-and-value{
+  input{
+    width:auto;
+    display: inline-block;
+  }
+}
+
+.form-product{
+  .form-group {
+    width: 100%;
+    padding-right: 0;
+    margin-bottom: 10px !important;
+  }
+}
+@media (min-width: @lg) {
+  .form-product{
+    .col-lg-3 {
+      width: 25% !important;
+    }
+  }
+}
+@media (max-width: @xs) and (min-width: @xxs){
+  .form-product{
+    .form-group {
+      width: 49%;
+      padding-right: 1%;
+      margin-bottom: 10px !important;
+    }
+  }
+}
+@media (max-width: @sm) and (min-width: @xs),(max-width: @xxs){
+  .form-product{
+    .form-group {
+      width: 100%;
+      padding-right: 0;
+      margin-bottom: 10px !important;
+    }
+  }
+}
